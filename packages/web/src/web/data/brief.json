@@ -1,0 +1,358 @@
+{
+  "organization": {
+    "name": "SANCTUARY LV",
+    "tagline": "A New Kind of Sanctuary for Las Vegas",
+    "descriptor": "Location, Development & Community Vision",
+    "designation": "City Development Brief — 2026",
+    "mission": "Sanctuary LV exists to create environments where people can encounter Jesus, experience authentic community, discover purpose, develop their gifts, and become equipped to impact the city.",
+    "summary": "Sanctuary LV is developing a new kind of gathering space for Las Vegas at the intersection of faith, creativity, culture, community, hospitality, and live experiences.",
+    "summaryDetail": "The vision goes beyond a traditional Sunday-use church facility: a flexible environment that serves people, supports creative expression, and brings the community together throughout the week.",
+    "website": "https://sanctuarylv.org",
+    "websiteLabel": "sanctuarylv.org",
+    "contact": {
+      "name": "Erskine Currie",
+      "role": "Founder & Lead Pastor",
+      "email": "erskine@sanctuarylv.org"
+    },
+    "leadership": [
+      { "name": "Erskine Currie", "role": "Founder & Lead Pastor" },
+      { "name": "Andrea Currie", "role": "Co-Lead" }
+    ]
+  },
+  "summaryMetrics": [
+    { "value": "300–800", "unit": "people", "label": "Initial assembly objective" },
+    { "value": "20–50k", "unit": "sq ft+", "label": "Approximate initial building target" },
+    { "value": "7", "unit": "days a week", "label": "A multi-use operating vision" }
+  ],
+  "ctas": {
+    "primary": "Continue the Conversation",
+    "secondary": "Download Development Brief",
+    "pdf": "/documents/sanctuary-lv-development-brief.pdf",
+    "contactSubject": "Sanctuary LV — Development Conversation",
+    "closing": "Let's Build Something Meaningful for Las Vegas.",
+    "closingDetail": "Sanctuary LV is currently developing its location and real-estate strategy and welcomes conversations with City leaders, developers, property owners, economic-development partners, and community stakeholders who see alignment with the vision."
+  },
+  "navigation": [
+    { "label": "The Vision", "id": "vision" },
+    { "label": "The Facility", "id": "facility" },
+    { "label": "Location & Strategy", "id": "locations" },
+    { "label": "Community Impact", "id": "impact" },
+    { "label": "City Partnership", "id": "city" }
+  ],
+  "programs": [
+    "Worship experiences",
+    "Sanctuary Nights",
+    "Live music",
+    "Creative programming",
+    "Discipleship",
+    "Leadership development",
+    "Community gatherings",
+    "Prayer",
+    "Hospitality",
+    "Workshops",
+    "Conferences",
+    "Special events",
+    "Outreach initiatives",
+    "Creator & artist engagement"
+  ],
+  "opportunity": {
+    "title": "Why Las Vegas",
+    "intro": "Las Vegas is one of America's most distinctive cultural, hospitality, entertainment, and creative markets. Sanctuary LV sees an opportunity to serve people who may not naturally connect with conventional church environments.",
+    "position": "Not apart from the city's culture. A positive contribution to it.",
+    "audiences": [
+      "Young adults",
+      "Creatives & artists",
+      "Musicians",
+      "Hospitality professionals",
+      "Entertainment professionals",
+      "Nightlife workers",
+      "Families",
+      "Veterans",
+      "Entrepreneurs",
+      "People exploring faith",
+      "People disconnected from traditional church environments"
+    ]
+  },
+  "images": {
+    "hero": "/images/experience.jpg",
+    "facility": "/images/architecture.jpg",
+    "city": "/images/vegas.jpg",
+    "disclaimer": "Architectural reference imagery only. Not a Sanctuary LV property, approved design, or proposed site."
+  },
+  "facility": [
+    {
+      "name": "Main Experience Room",
+      "description": "A flexible worship, concert, teaching, conference, and live-event environment. Approximately 300–800 people initially, depending on the property and development phase, with future expansion preferred."
+    },
+    {
+      "name": "Arrival / Lobby",
+      "description": "An open, hospitality-driven arrival environment for guest reception, community interaction, check-in, merchandise, information, and event activation."
+    },
+    {
+      "name": "Central Stage / Production",
+      "description": "Professional infrastructure for live music, worship, speaking, video production, livestreaming, concerts, and creative performances."
+    },
+    {
+      "name": "Hospitality / Mocktail Bar",
+      "description": "A premium non-alcoholic hospitality environment, serving as a social gathering area before and after experiences."
+    },
+    {
+      "name": "Prayer & Care Areas",
+      "description": "Private or semi-private environments for prayer, pastoral care, counseling, ministry, and reflection."
+    },
+    {
+      "name": "Creative / Production Areas",
+      "description": "Potential spaces for podcasting, content production, music, rehearsals, creator collaboration, and media production."
+    },
+    {
+      "name": "Leadership / Classrooms",
+      "description": "Flexible rooms for discipleship, leadership development, ministry training, workshops, meetings, and small groups."
+    },
+    {
+      "name": "Administrative Areas",
+      "description": "Operational workspace for Sanctuary leadership and staff."
+    }
+  ],
+  "strategies": [
+    {
+      "name": "Adaptive Reuse",
+      "type": "Entertainment Venue",
+      "description": "Former nightclub, live music venue, theater, entertainment property, or similar venue.",
+      "advantages": [
+        "Existing assembly & parking infrastructure",
+        "Stage & sound infrastructure",
+        "Potentially compatible entertainment zoning",
+        "Potential faster activation & less construction"
+      ]
+    },
+    {
+      "name": "Adaptive Reuse",
+      "type": "Commercial Property",
+      "description": "Commercial, retail, warehouse, flex, or mixed-use property capable of conversion.",
+      "advantages": [
+        "Flexible floor plans",
+        "Broader property inventory",
+        "Redevelopment opportunities",
+        "Potential long-term expansion"
+      ]
+    },
+    {
+      "name": "Ground-Up",
+      "type": "Development",
+      "description": "Land suitable for a purpose-built Sanctuary campus.",
+      "advantages": [
+        "Long-term control",
+        "Custom architecture",
+        "Future expansion",
+        "Multi-use campus potential"
+      ]
+    },
+    {
+      "name": "Public / Private",
+      "type": "Development Opportunity",
+      "description": "Potential participation in a larger economic or community-development initiative.",
+      "advantages": [
+        "Alignment with redevelopment goals",
+        "Potential neighborhood activation",
+        "Broader stakeholder collaboration",
+        "Property-specific partnership exploration"
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Southwest Las Vegas",
+      "detail": "Evaluate accessibility, adaptable commercial inventory, parking, and room to grow."
+    },
+    {
+      "name": "Enterprise",
+      "detail": "Explore opportunities in the southwest valley; Enterprise is administered by Clark County."
+    },
+    {
+      "name": "Arts District / Downtown-adjacent",
+      "detail": "Evaluate cultural alignment, adaptive reuse, and neighborhood activation potential."
+    }
+  ],
+  "locationNote": "Open to additional areas identified by the City where redevelopment, community activation, entertainment, cultural programming, or economic-development objectives align with the project.",
+  "jurisdictionNote": "Geographic priorities span the Las Vegas Valley, not exclusively City limits. Enterprise is an unincorporated town administered by Clark County. Confirm jurisdiction and the appropriate reviewing authority for every property.",
+  "jurisdictionSource": "https://www.clarkcountynv.gov/government/departments/comprehensive_planning_department/divisions/advanced_planning_division/enterprise",
+  "requirementsLabel": "Preliminary — Subject to Property Evaluation",
+  "requirements": [
+    {
+      "name": "Building",
+      "target": "20,000–50,000+ sq ft",
+      "detail": "Approximate initial target. Properties outside this range may be considered depending on layout and expansion potential."
+    },
+    {
+      "name": "Assembly capacity",
+      "target": "300–800 occupants",
+      "detail": "Approximate initial objective; future scalability preferred. Actual occupancy requires property-specific review."
+    },
+    {
+      "name": "Parking",
+      "target": "Strong availability",
+      "detail": "On-site parking or a credible shared-parking strategy."
+    },
+    {
+      "name": "Access",
+      "target": "Connected & accessible",
+      "detail": "Easy access from major transportation corridors."
+    },
+    {
+      "name": "Visibility",
+      "target": "Preferred, not mandatory",
+      "detail": "Destination access may offset lower visibility."
+    },
+    {
+      "name": "Ceiling height",
+      "target": "Higher clear heights",
+      "detail": "Strongly preferred for production, lighting, staging, and event flexibility."
+    },
+    {
+      "name": "Loading",
+      "target": "Production access",
+      "detail": "Production loading access strongly preferred."
+    },
+    {
+      "name": "Zoning & entitlements",
+      "target": "Property-specific review",
+      "detail": "Support or a realistic entitlement pathway for assembly, religious use, live events, community and educational programming, office/administrative use, and compatible accessory uses. No legal zoning determination is implied."
+    }
+  ],
+  "week": [
+    { "day": "Sunday", "title": "Gather", "programs": ["Worship", "Main gathering"] },
+    {
+      "day": "Monday–Thursday",
+      "title": "Develop",
+      "programs": [
+        "Leadership & discipleship",
+        "Training & production",
+        "Community programs",
+        "Administrative operations"
+      ]
+    },
+    { "day": "Friday", "title": "Experience", "programs": ["Sanctuary Nights"] },
+    {
+      "day": "Saturday",
+      "title": "Create",
+      "programs": ["Creative & special events", "Community programs", "Workshops & production"]
+    }
+  ],
+  "impact": [
+    {
+      "name": "Community Gathering",
+      "description": "An accessible environment for connection, relationships, and community formation."
+    },
+    {
+      "name": "Youth & Young Adult Engagement",
+      "description": "Programming designed to engage emerging generations."
+    },
+    {
+      "name": "Creative Economy",
+      "description": "Opportunities for musicians, filmmakers, creators, production professionals, and artists."
+    },
+    {
+      "name": "Workforce & Leadership Development",
+      "description": "Training, leadership development, volunteer experience, and professional opportunities."
+    },
+    {
+      "name": "Veteran Engagement",
+      "description": "Intentional opportunities to serve veterans and military-connected individuals."
+    },
+    {
+      "name": "Hospitality Workforce",
+      "description": "Community and programming accessible to people working nontraditional schedules in hospitality and entertainment."
+    },
+    {
+      "name": "Events & Cultural Programming",
+      "description": "Additional cultural, educational, music, and community programming."
+    },
+    {
+      "name": "Neighborhood Activation",
+      "description": "Potential contribution to redevelopment or activation of underutilized commercial or entertainment properties."
+    }
+  ],
+  "stages": [
+    {
+      "number": "01",
+      "title": "Activate",
+      "timing": "2026–2027 — Activation & Site Strategy",
+      "description": "Pop-up gatherings, partner venues, Sanctuary Nights, community events, and temporary activations.",
+      "milestone": "Validate audience, programming, operational requirements, and geographic demand."
+    },
+    {
+      "number": "02",
+      "title": "Establish",
+      "timing": "Milestone-driven",
+      "description": "Secure an initial permanent or long-term facility through adaptive reuse, acquisition, lease, development partnership, or another viable structure.",
+      "milestone": "Advance when a viable property, operating structure, and organizational readiness align."
+    },
+    {
+      "number": "03",
+      "title": "Expand",
+      "timing": "Long-term vision · Milestone-driven",
+      "description": "Develop the long-term Sanctuary LV campus and broader ecosystem as organizational capacity and community demand grow.",
+      "milestone": "Scale in response to demonstrated demand and organizational capacity, not a guaranteed construction date."
+    }
+  ],
+  "city": [
+    {
+      "name": "Site Identification",
+      "description": "Identify districts, redevelopment opportunities, existing buildings, underutilized properties, or development areas that may align with the project."
+    },
+    {
+      "name": "Development Navigation",
+      "description": "Understand the appropriate City departments and processes for evaluating potential properties."
+    },
+    {
+      "name": "Zoning & Entitlements",
+      "description": "Early guidance on zoning, assembly, entertainment, parking, occupancy, and entitlements. Final determinations depend on specific properties and formal review by the appropriate authority."
+    },
+    {
+      "name": "Economic Development Programs",
+      "description": "Identify potentially applicable development, redevelopment, workforce, business, cultural, or economic-development programs. No eligibility for any specific incentive is claimed."
+    },
+    {
+      "name": "Strategic Introductions",
+      "description": "Appropriate connections to property owners, developers, brokers, redevelopment stakeholders, community organizations, and economic-development partners."
+    },
+    {
+      "name": "Long-Term Partnership",
+      "description": "Establish an ongoing dialogue with relevant City stakeholders as the project progresses. No existing City partnership or endorsement is implied."
+    }
+  ],
+  "questions": [
+    "Which areas of Las Vegas could be particularly compatible with this type of project?",
+    "Are there redevelopment districts or underutilized properties we should be evaluating?",
+    "Are there former entertainment, hospitality, retail, or assembly properties suitable for adaptive reuse?",
+    "Which City departments should become involved early in site evaluation?",
+    "What zoning or entitlement issues should we evaluate before entering property negotiations?",
+    "Are there economic-development or redevelopment programs that may potentially apply?",
+    "Which developers, brokers, property owners, or community partners should we meet?",
+    "What should Sanctuary LV do in the next 90–180 days to position the project correctly?"
+  ],
+  "meetingGroups": [
+    {
+      "title": "Location & opportunity",
+      "detail": "Identify compatible districts, redevelopment areas, and adaptive-reuse possibilities.",
+      "questionIndices": [0, 1, 2]
+    },
+    {
+      "title": "Process & feasibility",
+      "detail": "Understand early review, zoning considerations, and potentially applicable programs.",
+      "questionIndices": [3, 4, 5]
+    },
+    {
+      "title": "Connections & next steps",
+      "detail": "Establish strategic introductions and priorities for the next 90–180 days.",
+      "questionIndices": [6, 7]
+    }
+  ],
+  "status": {
+    "current": "Location and real-estate strategy in development.",
+    "target": "Initial building and assembly ranges are planning targets.",
+    "preliminary": "Site requirements require property-specific evaluation.",
+    "future": "Facility components and long-term campus are conceptual future vision.",
+    "disclaimer": "Planning brief only. No property selected, strategy finalized, funding commitment, City endorsement, incentive eligibility, zoning approval, permit, or construction commitment is represented in this document."
+  }
+}

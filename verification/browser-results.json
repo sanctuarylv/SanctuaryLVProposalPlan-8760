@@ -1,0 +1,57 @@
+{
+  "desktop": {
+    "viewport": [
+      1440,
+      1000
+    ],
+    "pageOverflow": false,
+    "images": "loaded",
+    "navigation": "passed",
+    "questions": "expandable"
+  },
+  "tablet": {
+    "viewport": [
+      768,
+      1024
+    ],
+    "pageOverflow": false,
+    "images": "loaded",
+    "navigation": "passed",
+    "questions": "expandable"
+  },
+  "mobile": {
+    "viewport": [
+      390,
+      844
+    ],
+    "pageOverflow": false,
+    "images": "loaded",
+    "navigation": "passed",
+    "questions": "expandable"
+  },
+  "small-mobile": {
+    "viewport": [
+      320,
+      740
+    ],
+    "pageOverflow": false,
+    "images": "loaded",
+    "navigation": "passed",
+    "questions": "expandable"
+  },
+  "keyboard": {
+    "skipLink": "passed",
+    "mobileEscape": "passed",
+    "scrollRegion": "focusable"
+  },
+  "download": {
+    "filename": "Sanctuary-LV-Development-Brief.pdf",
+    "bytes": 845253
+  },
+  "print": {
+    "navigation": "hidden",
+    "pdf": "generated"
+  },
+  "reducedMotion": "passed",
+  "consoleErrors": []
+}
